@@ -1,0 +1,9 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - matplotlib=*
+  - seaborn=*
+  - sentence-transformers=*
+  - snowflake-ml-python=*
+  - snowflake-snowpark-python=*
