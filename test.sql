@@ -1,3 +1,3 @@
 
 
-create table cummins_test (id number);
+create or alter table cummins_test (id number,test varchar);
