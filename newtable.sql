@@ -1,4 +1,5 @@
 CREATE TABLE EMPLOYEE (
     ID NUMBER,
-    NAME VARCHAR
+    NAME VARCHAR,
+    lname varchar
 );
